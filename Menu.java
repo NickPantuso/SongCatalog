@@ -67,7 +67,6 @@ public class Menu {
       }
    }
 
-
    public void addSong() {
       String userSong, userArtist, userGenre = "";
       System.out.println("Enter the song's title:");
