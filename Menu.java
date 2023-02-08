@@ -174,10 +174,7 @@ public class Menu {
    }
    
    public void quit() {
-      System.out.println("CREDITS:");
-      System.out.println("Benjamin Blake");
-      System.out.println("Nicholas Pantuso");
-      System.out.println("Jayson Paul");
+      System.out.println("Goodbye.");
       System.exit(0);
    }
 }
